@@ -22,7 +22,7 @@ Consumo de um JSON local para exibir dinâmicamente. Foi colocado em prática os
 1. Atualizar variáveis de ambiente no arquivo `.env`
 1. Executar o comando `npm start` para inicializar o servidor
 1. Necessário possuir o `typescript` instalado e configurado para executar o projeto.
-
+<hr>
 
 ### Imagens do projeto
 
